@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "Exercises 13 ListView"

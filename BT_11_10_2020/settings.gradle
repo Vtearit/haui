@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "BT_11_10_2020"
