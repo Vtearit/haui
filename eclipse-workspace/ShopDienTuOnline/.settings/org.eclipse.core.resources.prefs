@@ -1,9 +1,0 @@
-eclipse.preferences.version=1
-encoding//WebContent/Admin/ForgotPassword.jsp=UTF-8
-encoding//WebContent/Admin/TONKHOID.jsp=UTF-8
-encoding//src/Controller/ForgotPasswordServlet.java=UTF-8
-encoding//src/Controller/OrderAdminServlet.java=UTF-8
-encoding//src/DAO/ProductDAO.java=UTF-8
-encoding//src/Tool/Mail.java=UTF-8
-encoding//src/Tool/MailExist.java=UTF-8
-encoding/<project>=UTF-8
