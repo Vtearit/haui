@@ -1,0 +1,2 @@
+C:\Users\Vtearit\source\repos\Section1030\Section1030\obj\Debug\Section1030.csprojAssemblyReference.cache
+C:\Users\Vtearit\source\repos\Section1030\Section1030\obj\Debug\Section1030.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+C:\Users\Vtearit\source\repos\Intern_Practice\Intern_Practice\obj\Debug\Intern_Practice.csprojAssemblyReference.cache
+C:\Users\Vtearit\source\repos\Intern_Practice\Intern_Practice\obj\Debug\Intern_Practice.Form1.resources
+C:\Users\Vtearit\source\repos\Intern_Practice\Intern_Practice\obj\Debug\Intern_Practice.Properties.Resources.resources
+C:\Users\Vtearit\source\repos\Intern_Practice\Intern_Practice\obj\Debug\Intern_Practice.csproj.GenerateResource.cache
+C:\Users\Vtearit\source\repos\Intern_Practice\Intern_Practice\obj\Debug\Intern_Practice.csproj.CoreCompileInputs.cache
+C:\Users\Vtearit\source\repos\Intern_Practice\Intern_Practice\bin\Debug\Intern_Practice.exe.config
+C:\Users\Vtearit\source\repos\Intern_Practice\Intern_Practice\bin\Debug\Intern_Practice.exe
+C:\Users\Vtearit\source\repos\Intern_Practice\Intern_Practice\bin\Debug\Intern_Practice.pdb
+C:\Users\Vtearit\source\repos\Intern_Practice\Intern_Practice\obj\Debug\Intern_Practice.exe
+C:\Users\Vtearit\source\repos\Intern_Practice\Intern_Practice\obj\Debug\Intern_Practice.pdb

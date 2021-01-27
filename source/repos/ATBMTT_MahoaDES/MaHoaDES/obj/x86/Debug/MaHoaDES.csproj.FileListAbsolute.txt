@@ -1,0 +1,30 @@
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Debug\MaHoaDES.BieuMau.frmMaHoaDES.resources
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Debug\MaHoaDES.Properties.Resources.resources
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\bin\Debug\MaHoaDES.exe
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\bin\Debug\MaHoaDES.pdb
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Debug\MaHoaDES.exe
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Debug\MaHoaDES.pdb
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Debug\MaHoaDES.BieuMau.frmTienTrinh.resources
+D:\Software Engineering\ATBMTT\ATBMTT_MahoaDES\MaHoaDES\bin\Debug\MaHoaDES.exe
+D:\Software Engineering\ATBMTT\ATBMTT_MahoaDES\MaHoaDES\bin\Debug\MaHoaDES.pdb
+D:\Software Engineering\ATBMTT\ATBMTT_MahoaDES\MaHoaDES\obj\x86\Debug\MaHoaDES.csprojAssemblyReference.cache
+D:\Software Engineering\ATBMTT\ATBMTT_MahoaDES\MaHoaDES\obj\x86\Debug\MaHoaDES.BieuMau.frmATBMTT_MaHoaDES.resources
+D:\Software Engineering\ATBMTT\ATBMTT_MahoaDES\MaHoaDES\obj\x86\Debug\MaHoaDES.BieuMau.frmTienTrinh.resources
+D:\Software Engineering\ATBMTT\ATBMTT_MahoaDES\MaHoaDES\obj\x86\Debug\MaHoaDES.Properties.Resources.resources
+D:\Software Engineering\ATBMTT\ATBMTT_MahoaDES\MaHoaDES\obj\x86\Debug\MaHoaDES.csproj.GenerateResource.cache
+D:\Software Engineering\ATBMTT\ATBMTT_MahoaDES\MaHoaDES\obj\x86\Debug\MaHoaDES.csproj.CoreCompileInputs.cache
+D:\Software Engineering\ATBMTT\ATBMTT_MahoaDES\MaHoaDES\obj\x86\Debug\MaHoaDES.exe
+D:\Software Engineering\ATBMTT\ATBMTT_MahoaDES\MaHoaDES\obj\x86\Debug\MaHoaDES.pdb
+C:\Users\Vtearit\source\repos\ATBMTT_MahoaDES\MaHoaDES\bin\Debug\MaHoaDES.exe
+C:\Users\Vtearit\source\repos\ATBMTT_MahoaDES\MaHoaDES\bin\Debug\MaHoaDES.pdb
+C:\Users\Vtearit\source\repos\ATBMTT_MahoaDES\MaHoaDES\obj\x86\Debug\MaHoaDES.csprojAssemblyReference.cache
+C:\Users\Vtearit\source\repos\ATBMTT_MahoaDES\MaHoaDES\obj\x86\Debug\MaHoaDES.BieuMau.frmATBMTT_MaHoaDES.resources
+C:\Users\Vtearit\source\repos\ATBMTT_MahoaDES\MaHoaDES\obj\x86\Debug\MaHoaDES.BieuMau.frmTienTrinh.resources
+C:\Users\Vtearit\source\repos\ATBMTT_MahoaDES\MaHoaDES\obj\x86\Debug\MaHoaDES.Properties.Resources.resources
+C:\Users\Vtearit\source\repos\ATBMTT_MahoaDES\MaHoaDES\obj\x86\Debug\MaHoaDES.csproj.GenerateResource.cache
+C:\Users\Vtearit\source\repos\ATBMTT_MahoaDES\MaHoaDES\obj\x86\Debug\MaHoaDES.csproj.CoreCompileInputs.cache
+C:\Users\Vtearit\source\repos\ATBMTT_MahoaDES\MaHoaDES\obj\x86\Debug\MaHoaDES.exe
+C:\Users\Vtearit\source\repos\ATBMTT_MahoaDES\MaHoaDES\obj\x86\Debug\MaHoaDES.pdb
