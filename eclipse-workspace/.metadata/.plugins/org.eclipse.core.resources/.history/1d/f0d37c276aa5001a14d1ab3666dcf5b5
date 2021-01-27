@@ -1,0 +1,67 @@
+package LinkedBlockingDeque_Topic;
+//Edit: Group of 10
+
+import java.lang.Object;
+import java.util.concurrent.LinkedBlockingDeque;
+import java.util.*;
+
+/**
+ * 
+ * The <b>LinkedBlockingDeque</b> class in Java is a part of the Java Collection
+ * Framework and implements the Collection interface and the AbstractQueue
+ * class. It also implements the BlockingDeque and provides an
+ * optionally-bounded functionality based on linked nodes. This optional
+ * boundedness is served by passing the required size in the constructor and
+ * helps in preventing memory wastage. When unspecified, the capacity is by
+ * default taken as <b>Integer.MAX_VALUE</b>. <br/>
+ * <i>update 03/06/2020</i>
+ * 
+ * 
+ * @author Vtearit
+ *
+ */
+
+public class Example {
+	/**
+	 * 
+	 * Java Program Demonstrate add() method of LinkedBlockingDeque
+	 * 
+	 * @throws IllegalStateException
+	 * 
+	 *                               //
+	 */
+	public static void add() {
+		// create object of LinkedBlockingDeque
+		LinkedBlockingDeque<Integer> LBD = new LinkedBlockingDeque<Integer>();
+
+		// Add numbers to end of LinkedBlockingDeque
+		LBD.add(7855642);
+		LBD.add(35658786);
+		LBD.add(5278367);
+		LBD.add(74381793);
+
+		// before removing print queue
+		System.out.println("Linked Blocking Deque: " + LBD);
+	}
+	
+	public static void addFirst() throws IllegalStateException {
+
+		// create object of LinkedBlockingDeque
+		LinkedBlockingDeque<Integer> LBD = new LinkedBlockingDeque<Integer>();
+
+		// Add numbers to front of LinkedBlockingDeque
+		LBD.addFirst(1234);
+		LBD.addFirst(2345);
+		LBD.addFirst(3456);
+		LBD.addFirst(4567);
+
+		// before removing print queue
+		System.out.println("Linked Blocking Deque: " + LBD);
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		add();
+	}
+
+}

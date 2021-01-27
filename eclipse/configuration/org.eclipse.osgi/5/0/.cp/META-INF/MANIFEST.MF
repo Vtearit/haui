@@ -1,0 +1,50 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: ch.qos.logback.slf4j
+Archiver-Version: Plexus Archiver
+Built-By: genie.orbit
+Bundle-ManifestVersion: 2
+Bundle-Vendor: %bundleVendor
+Import-Package: ch.qos.logback.classic;version="[1.1.2,1.2)",ch.qos.lo
+ gback.classic.selector;version="[1.1.2,1.2)",ch.qos.logback.classic.u
+ til;version="[1.1.2,1.2)",ch.qos.logback.core;version="[1.1.2,1.2)",c
+ h.qos.logback.core.joran.spi;version="[1.1.2,1.2)",ch.qos.logback.cor
+ e.status;version="[1.1.2,1.2)",ch.qos.logback.core.util;version="[1.1
+ .2,1.2)",org.slf4j.spi;version="[1.7.10,1.8)",org.slf4j;version="[1.7
+ ,2)",org.slf4j.helpers;version="[1.7,2)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.5))"
+Fragment-Host: org.slf4j.api;bundle-version="[1.7.10,1.8)"
+Provide-Capability: org.slf4j.impl;org.slf4j.impl=logback;version:Vers
+ ion="1.7.10"
+Export-Package: org.slf4j.impl;x-internal:=true;version="1.7.10";uses:
+ ="org.slf4j,org.slf4j.spi"
+Bundle-Name: %bundleName
+Bundle-Version: 1.1.2.v20160301-0943
+Created-By: Eclipse Bundle Recipe Maven Plug-in
+Build-Jdk: 1.8.0_162
+
+Name: about.html
+SHA-256-Digest: iZRRdvH13aYxc+Vg4zl8EeyG4U6X5kULZPXCn/CWJfk=
+
+Name: org/slf4j/impl/StaticMDCBinder.class
+SHA-256-Digest: 5T/uye1neFJJRJSlpQO/4CDPYC2N6Oh+UlLzdeQ7rFo=
+
+Name: META-INF/maven/org.eclipse.orbit.bundles/ch.qos.logback.slf4j/po
+ m.xml
+SHA-256-Digest: JJP7MkBxEr2VW/KgRPzh0Cb+yNopWfY6zgeT9wkO1N0=
+
+Name: org/slf4j/impl/StaticMarkerBinder.class
+SHA-256-Digest: wbfpm3pe8wMmUr2hw/MbTaTvEXK6TTuGwWbeUKrEVTE=
+
+Name: META-INF/maven/org.eclipse.orbit.bundles/ch.qos.logback.slf4j/po
+ m.properties
+SHA-256-Digest: 9idXXrztxCxJqX66nBxxPNckRt1AcwTkoF4X4XANJ6A=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA-256-Digest: 7roBhMeQyxsIjicy077/F58QJnjDa97y8m+vLlVgPzc=
+
+Name: about_files/ECLIPSE_PUBLIC_LICENSE.html
+SHA-256-Digest: pAdBtZNkzElEklXpub/h/P5qLnq003yonbO6y/sU6dI=
+
+Name: org/slf4j/impl/StaticLoggerBinder.class
+SHA-256-Digest: NP1/EXXOVeWELjgGQi1ilMXQpJZ/E13e4SGy3rIhPIs=
+

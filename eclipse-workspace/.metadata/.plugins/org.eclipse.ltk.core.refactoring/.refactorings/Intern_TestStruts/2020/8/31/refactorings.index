@@ -1,0 +1,3 @@
+1596251561437	Move 'struts.xml' to 'classes'
+1596251573855	Move 'classes' to 'WEB-INF'
+1596252831804	Rename package 'model'

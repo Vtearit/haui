@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="jSE/src"/>
+	<classpathentry kind="src" path="LinkedBlockingDeque/src"/>
+	<classpathentry kind="src" path="LinkedBlockingQueueDemo/src"/>
+	<classpathentry kind="src" path="Others/src"/>
+	<classpathentry kind="src" path="Testing/src"/>
+	<classpathentry kind="output" path="LinkedBlockingDeque/bin"/>
+</classpath>
